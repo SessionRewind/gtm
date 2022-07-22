@@ -14,7 +14,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Session Rewind",
-  "categories": ["ANALYTICS", "CONVERSIONS", "SESSION_RECORDING"]
+  "categories": ["ANALYTICS", "CONVERSIONS", "SESSION_RECORDING"],
   "brand": {
     "id": "session_rewind",
     "displayName": "Session Rewind",
