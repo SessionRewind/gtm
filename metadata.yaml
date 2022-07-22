@@ -15,5 +15,5 @@
 homepage: "https://sessionrewind.com/"
 documentation: "https://dash.sessionrewind.com/account-settings/installation"
 versions:
-  - sha: ca1f73926e672e23e173d6a9a7daaa7e6cadb39c
+  - sha: eb88a67ec31e2d3006f207e8ec5c8537809690f8
     changeNotes: Initial Version
